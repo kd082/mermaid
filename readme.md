@@ -1,4 +1,4 @@
-```mermaid
+
 graph TD
     A[Start] --> B{EL9 = Direct Transport CX OR Small BCO CX?};
     B -- No --> F[""];
